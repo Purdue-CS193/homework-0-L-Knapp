@@ -1,3 +1,10 @@
+# Logan Knapp's First CS193 Homework
+
+Some fav things about cs193
+- Smaller class size than cs180
+- Taught by students, for students
+- Helps teach tools that help programmers
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
